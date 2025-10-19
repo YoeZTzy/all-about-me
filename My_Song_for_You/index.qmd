@@ -1,7 +1,6 @@
 # UTS-2 My Songs for You
 
-//Memories\\
-Lirik by Abdullah Ahmad Yusuf
+## **Memories**
 
 {{< video https://youtu.be/7BnJFwHD7J4?si=rVF4RihfnlLBzPlG>}}, with lyrics
 
