@@ -1,5 +1,5 @@
-# Selamat Berjumpa {.unnumbered}
+# Perkenalkan. {.unnumbered}
 
 ![About Me](images/ayus.jpg){width=950%}
 
-Abdullah Ahmad Yusuf adalah mahasiswa Tingkat Dua Jurusan Sistem dan Teknologi Informasi di Institut Teknologi Bandung. Lahir di Daerah Istimewa Yogyakarta 2005, keturunan Jawa asli. Suka belajar hal baru, kompetitif; Minat dibidang softeng, webdev; Hobi olahraga (basket, badminton), game (Clash Royale, Roblox), baca manwha, dan nonton anime.
+Abdullah Ahmad Yusuf adalah mahasiswa Jurusan Sistem dan Teknologi Informasi di Institut Teknologi Bandung. Lahir di Daerah Istimewa Yogyakarta 2005, keturunan Jawa asli. Suka belajar hal baru, kompetitif; Minat dibidang softeng, webdev; Hobi olahraga (basket, badminton), game (Clash Royale, Roblox), baca manwha, dan nonton anime.
