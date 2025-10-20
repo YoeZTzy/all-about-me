@@ -1,7 +1,7 @@
 # UTS-3 My Stories for You
 
 ## “Strangers Once — A Family from Another Horizon.”  
-![About Me](../images/story.jpg){width=950%}
+![~family](../images/story.jpg){width=950%}
 
 Aku adalah Ayus, dan ini kisahku bertemu para manusia hebat yang menjadi inspirasiku.
 Disuatu waktu yang jauh, Aku pernah bepergian jauh ke tempat baru yang belum pernah kukunjunginya sebelumnya. Disana, Aku ditemani dengan teman seperjuangan yang saling berbagi dan membantu dalam kesangan maupun kesedihan. Perjalanan itu singkat, namun teringat sampai nanti kalo dah lupa.
