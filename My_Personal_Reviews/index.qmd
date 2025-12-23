@@ -7,17 +7,17 @@ ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda
 
 ## Identifikasi
 
-* Nama & NIM penulis: **Abdullah Ahmad Yusuf – 18224073** (tertera di halaman depan portofolio). ([II 2100][1])
+* Nama & NIM penulis: **Abdullah Ahmad Yusuf – 18224073** 
 * Penilai: **Self-assessment (bersama ChatGPT)**
-* Catatan cakupan: halaman beranda memuat “About Me”; navigasi ke “My Songs for You”, “My Stories for You”, “My Shapes”, dan “My Personal Reviews” tersedia. ([II 2100][1])
+* Catatan cakupan: halaman beranda memuat “About Me”; navigasi ke “My Songs for You”, “My Stories for You”, “My Shapes”, dan “My Personal Reviews” tersedia.
 
 ## Tinjauan Umum
 
-* **UTS-1 (All About Me)** hadir di beranda (“Selamat Berjumpa / About Me”). Isi memperkenalkan identitas dan latar personal secara padat. ([II 2100][1])
-* **UTS-2 (My Songs for You)** memuat judul karya dan tautan audio, namun lirik/isi tidak ditampilkan di halaman (file audio tidak bisa saya akses dari sini), sehingga penilaian konten terbatas pada kelengkapan presentasi. ([II 2100][2])
-* **UTS-3 (My Stories for You)** berisi tautan ke beberapa cerita; konten naratif kuat, terutama pada kisah keluarga “Gaun Pengantin Gladys” serta kisah inspiratif lainnya. ([II 2100][3])
-* **UTS-4 (My SHAPE)** saat ini halaman kosong/tanpa isi, hanya navigasi. ([II 2100][4])
-* **UTS-5 (My Personal Reviews)** berisi metode/tautan panduan review, namun belum ada contoh **review personal** yang lengkap terhadap sebuah pesan/teks. ([II 2100][5])
+* **UTS-1 (All About Me)** hadir di beranda (“Selamat Berjumpa / About Me”). Isi memperkenalkan identitas dan latar personal secara padat. 
+* **UTS-2 (My Songs for You)** memuat judul karya dan tautan audio, namun lirik/isi tidak ditampilkan di halaman (file audio tidak bisa saya akses dari sini), sehingga penilaian konten terbatas pada kelengkapan presentasi.
+* **UTS-3 (My Stories for You)** berisi tautan ke beberapa cerita; konten naratif kuat, terutama pada kisah keluarga “Gaun Pengantin Gladys” serta kisah inspiratif lainnya. 
+* **UTS-4 (My SHAPE)** saat ini halaman kosong/tanpa isi, hanya navigasi.
+* **UTS-5 (My Personal Reviews)** berisi metode/tautan panduan review, namun belum ada contoh **review personal** yang lengkap terhadap sebuah pesan/teks.
 
 ---
 
