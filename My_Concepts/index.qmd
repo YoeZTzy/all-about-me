@@ -1,9 +1,21 @@
 # UAS-1 My Concepts
 
+Dalam era di mana kecerdasan buatan (AI) mendefinisikan ulang batas-batas kemanusiaan, topik **Konflik dan Perang** tidak lagi hanya berbicara tentang tentara di medan laga, melainkan tentang algoritma, data, dan kecepatan keputusan.
+
 ## Pengantar Masterpiece
+
+Untuk menavigasi era baru ini, saya mempersembahkan Masterpiece saya di bawah satu kerangka kerja terpadu:
+
 ![~concepts](../images/concepts.png){width=950%}
 
-Dalam era di mana kecerdasan buatan (AI) mendefinisikan ulang batas-batas kemanusiaan, topik **Konflik dan Perang** tidak lagi hanya berbicara tentang tentara di medan laga, melainkan tentang algoritma, data, dan kecepatan keputusan. Masterpiece ini adalah eksplorasi bagaimana Sistem Teknologi Informasi dan AI menjadi *game changer* dalam dinamika konflik modern.
+::: {.callout-tip appearance="minimal"}
+## **PROJECT L.U.C.I.D.**
+> **(L)ogical (U)nit for (C)onflict (I)ntelligence & (D)efense**
+>
+> *"Bringing absolute clarity to the Algorithmic Fog of War."*
+:::
+
+Masterpiece ini mengeksplorasi bagaimana Sistem Teknologi Informasi dan AI menjadi *game changer* dalam dinamika konflik modern. Melalui L.U.C.I.D., saya menawarkan visi di mana kekacauan perang dapat diredam oleh presisi logika mesin, namun tetap dikendalikan oleh hati nurani manusia.
 
 ---
 
