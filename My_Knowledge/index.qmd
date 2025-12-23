@@ -1,1 +1,42 @@
-## UAS-4 My Knowledge
+# UAS-4: My Knowledge
+
+Agar inovasi "Project AIGIS" dapat terwujud, saya tidak bisa hanya berimajinasi. Saya harus menguasai struktur pengetahuan yang mendasarinya. Berikut adalah pemetaan pengetahuan saya mengenai Penerapan Sistem Informasi dan AI dalam Konflik, disusun berdasarkan **Taksonomi Bloom**.
+
+## Peta Pengetahuan Primitif (Primitive Knowledge Map)
+*Fokus: Pengetahuan Deklaratif (The "What") - Menguasai Fakta & Definisi.*
+
+Dalam membangun sistem ini, saya mengidentifikasi entitas-entitas dasar (Objek Pengetahuan) yang terlibat:
+
+* **Entitas Alam/Teknis:**
+    * *Artificial Intelligence (AI):* Simulasi kecerdasan manusia dalam mesin yang diprogram untuk berpikir seperti manusia dan meniru tindakannya.
+    * *Machine Learning (ML):* Cabang AI yang berfokus pada penggunaan data dan algoritma untuk meniru cara manusia belajar, secara bertahap meningkatkan akurasinya.
+    * *Cyber Warfare:* Tindakan oleh negara-bangsa atau organisasi internasional untuk menyerang dan berupaya merusak komputer atau jaringan informasi negara lain.
+
+* **Entitas Sosial/Humaniora:**
+    * *Konflik:* Perselisihan serius atau ketidaksepakatan, sering kali berkepanjangan.
+    * *Hukum Humaniter Internasional:* Sekumpulan aturan yang, karena alasan kemanusiaan, berupaya membatasi dampak konflik bersenjata (misal: Konvensi Jenewa).
+
+## Tingkatan Pengetahuan (Taksonomi Bloom)
+*Fokus: Kedalaman Pemahaman dari Mengingat hingga Mencipta.*
+
+Berikut adalah bagaimana saya menaiki tangga pengetahuan untuk menciptakan Masterpiece ini:
+
+| Level Bloom | Kategori | Deskripsi Kemampuan dalam Konteks Masterpiece | Contoh Konkret |
+| :--- | :--- | :--- | :--- |
+| **Level 1** | **Remember** (Mengingat) | Mampu mendefinisikan istilah teknis dan militer. | Mengetahui definisi "Drone Otonom" dan "Serangan DDoS". |
+| **Level 2** | **Understand** (Memahami) | Mampu mengklasifikasikan jenis ancaman. | Mengklasifikasikan serangan siber menjadi *Espionage*, *Sabotage*, atau *Disinformation*. |
+| **Level 3** | **Apply** (Menerapkan) | Mampu memprediksi dampak penggunaan algoritma tertentu. | Memprediksi bahwa penggunaan algoritma pengenalan wajah yang bias di medan perang akan meningkatkan korban sipil salah tangkap. |
+| **Level 4** | **Analyze** (Menganalisis) | Mampu menguraikan penyebab kegagalan pertahanan. | Menganalisis mengapa sistem pertahanan udara gagal mendeteksi *swarm drone* (karena pola terbang yang tidak linear). |
+| **Level 5** | **Synthesize** (Sintesis) | Mampu menyusun elemen terpisah menjadi strategi baru. | Menggabungkan data media sosial (Open Source Intelligence) dengan data satelit militer untuk memetakan pergerakan musuh secara *real-time*. |
+| **Level 6** | **Evaluate** (Evaluasi) | Mampu menilai nilai etis dan efektivitas sistem. | Menilai apakah "Project AIGIS" melanggar privasi warga sipil demi keamanan negara (Trade-off Analysis). |
+| **Level 7** | **Create** (Mencipta) | Mampu merancang entitas sistem baru. | Merancang arsitektur "Project AIGIS" yang mengintegrasikan semua elemen di atas menjadi satu dashboard komando yang fungsional. |
+
+## Integrasi Pengetahuan (Knowledge Integration)
+
+Masterpiece ini adalah jembatan antara dua domain:
+1.  **Domain Rekayasa (Engineering):** Bagaimana memindahkan "beban" (data intelijen yang berat) menggunakan "kekuatan" (kapasitas komputasi AI) secara efisien.
+2.  **Domain Sosial (Social):** Bagaimana solusi rekayasa tersebut memecahkan masalah kemanusiaan (mencegah perang/mengurangi korban).
+
+Pengetahuan saya tidak berhenti pada *coding* (teknis), tetapi meluas pada pemahaman dampak sosial dari kode yang saya tulis. Inilah yang membedakan teknisi biasa dengan seorang arsitek sistem yang memiliki *Beautiful Mind*.
+
+---

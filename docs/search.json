@@ -134,7 +134,7 @@
     "href": "My_Personal_Reviews/index.html#identifikasi",
     "title": "5  UTS-5 My Personal Reviews",
     "section": "6.1 Identifikasi",
-    "text": "6.1 Identifikasi\n\nNama & NIM penulis: Abdullah Ahmad Yusuf – 18224073 (tertera di halaman depan portofolio). (II 2100)\nPenilai: Self-assessment (bersama ChatGPT)\nCatatan cakupan: halaman beranda memuat “About Me”; navigasi ke “My Songs for You”, “My Stories for You”, “My Shapes”, dan “My Personal Reviews” tersedia. (II 2100)",
+    "text": "6.1 Identifikasi\n\nNama & NIM penulis: Abdullah Ahmad Yusuf – 18224073\nPenilai: Self-assessment (bersama ChatGPT)\nCatatan cakupan: halaman beranda memuat “About Me”; navigasi ke “My Songs for You”, “My Stories for You”, “My Shapes”, dan “My Personal Reviews” tersedia.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
     ]
@@ -144,7 +144,7 @@
     "href": "My_Personal_Reviews/index.html#tinjauan-umum",
     "title": "5  UTS-5 My Personal Reviews",
     "section": "6.2 Tinjauan Umum",
-    "text": "6.2 Tinjauan Umum\n\nUTS-1 (All About Me) hadir di beranda (“Selamat Berjumpa / About Me”). Isi memperkenalkan identitas dan latar personal secara padat. (II 2100)\nUTS-2 (My Songs for You) memuat judul karya dan tautan audio, namun lirik/isi tidak ditampilkan di halaman (file audio tidak bisa saya akses dari sini), sehingga penilaian konten terbatas pada kelengkapan presentasi. (II 2100)\nUTS-3 (My Stories for You) berisi tautan ke beberapa cerita; konten naratif kuat, terutama pada kisah keluarga “Gaun Pengantin Gladys” serta kisah inspiratif lainnya. (II 2100)\nUTS-4 (My SHAPE) saat ini halaman kosong/tanpa isi, hanya navigasi. (II 2100)\nUTS-5 (My Personal Reviews) berisi metode/tautan panduan review, namun belum ada contoh review personal yang lengkap terhadap sebuah pesan/teks. (II 2100)",
+    "text": "6.2 Tinjauan Umum\n\nUTS-1 (All About Me) hadir di beranda (“Selamat Berjumpa / About Me”). Isi memperkenalkan identitas dan latar personal secara padat.\nUTS-2 (My Songs for You) memuat judul karya dan tautan audio, namun lirik/isi tidak ditampilkan di halaman (file audio tidak bisa saya akses dari sini), sehingga penilaian konten terbatas pada kelengkapan presentasi.\nUTS-3 (My Stories for You) berisi tautan ke beberapa cerita; konten naratif kuat, terutama pada kisah keluarga “Gaun Pengantin Gladys” serta kisah inspiratif lainnya.\nUTS-4 (My SHAPE) saat ini halaman kosong/tanpa isi, hanya navigasi.\nUTS-5 (My Personal Reviews) berisi metode/tautan panduan review, namun belum ada contoh review personal yang lengkap terhadap sebuah pesan/teks.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
     ]
@@ -177,6 +177,166 @@
     "text": "6.5 Langkah Perbaikan Cepat (prioritas 1 minggu)\n\n\n\n\n\n\n\n\nFokus Perbaikan\nLangkah Konkret\nTarget Waktu\n\n\n\n\nVisualisasi\nTambahkan 1–2 gambar atau ilustrasi tematik di setiap halaman agar pengalaman pembaca lebih kuat.\n2 hari\n\n\nInteraktivitas\nSisipkan elemen sederhana seperti tautan internal atau efek hover untuk memperkuat keterlibatan.\n3 hari\n\n\nNarasi SHAPE\nHubungkan antarbagian SHAPE (Strengths–Heart–Abilities–Personality–Experience) agar lebih naratif.\n2 hari\n\n\nPenyempurnaan Bahasa\nBaca ulang dan perbaiki diksi minor agar tone tetap konsisten di seluruh halaman.\n1 hari\n\n\n\nJika Anda mau, saya bisa bantu merapikan UTS-4 (tabel SHAPE + narasi) dan membuat kerangka cepat untuk review di UTS-5 dari salah satu karya Anda.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Concepts/index.html",
+    "href": "My_Concepts/index.html",
+    "title": "6  UAS-1 My Concepts",
+    "section": "",
+    "text": "6.1 Pengantar Masterpiece\nDalam era di mana kecerdasan buatan (AI) mendefinisikan ulang batas-batas kemanusiaan, topik Konflik dan Perang tidak lagi hanya berbicara tentang tentara di medan laga, melainkan tentang algoritma, data, dan kecepatan keputusan. Masterpiece ini adalah eksplorasi bagaimana Sistem Teknologi Informasi dan AI menjadi game changer dalam dinamika konflik modern.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "My_Concepts/index.html#nama-konsep-the-algorithmic-fog-of-war-kabut-perang-algoritmik",
+    "href": "My_Concepts/index.html#nama-konsep-the-algorithmic-fog-of-war-kabut-perang-algoritmik",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.2 Nama Konsep: “The Algorithmic Fog of War” (Kabut Perang Algoritmik)",
+    "text": "6.2 Nama Konsep: “The Algorithmic Fog of War” (Kabut Perang Algoritmik)\nUntuk membangun Beautiful Mind dan Masterpiece ini, saya memulai dengan merumuskan konsep dasar yang menjadi fondasi logika berpikir saya mengenai peran AI dalam konflik.\n\n6.2.1 Definisi dan Logika Mesin Abstrak\nKonsep ini mendefinisikan pergeseran paradigma perang dari gesekan fisik (physical attrition) menjadi dominasi kognitif dan kecepatan otonom.\nJika konsep adalah mesin pengangkat beban, maka: * Beban Masalah [B]: Keterbatasan manusia dalam memproses jutaan variabel medan perang secara real-time, risiko korban jiwa manusia (human cost), dan “Fog of War” (ketidakpastian informasi) yang menyebabkan salah ambil keputusan strategis. * Kekuatan yang Dihimpun [K]: Kapasitas komputasi AI (Deep Learning), Big Data Analytics, dan Autonomous Decision Making. * Mekanisme Kerja: Menggantikan intuisi lambat manusia dengan presisi prediktif mesin untuk mencapai keunggulan strategis sebelum konflik fisik terjadi.\n\n\n6.2.2 Esensi Konsep\nInti dari The Algorithmic Fog of War adalah:\n\n“Siapa yang menguasai algoritma pemrosesan data, dia yang mengendalikan realitas konflik.”\n\nDalam konsep ini, AI bukan sekadar senjata, melainkan arsitek dari medan perang itu sendiri. Ia bisa menciptakan perdamaian melalui prediksi (detterence) atau menciptakan perang melalui eskalasi otomatis yang tidak bisa dihentikan manusia.\n\n\n6.2.3 Turunan Ide Praktis (The Offsprings)\nDari konsep induk di atas, lahir tiga ide praktis penerapan Sistem Informasi dan AI:\n\nIde 1: Predictive Conflict Resolution System (Sistem Pencegahan Konflik)\n\nDeskripsi: Menggunakan AI untuk mensimulasikan jutaan skenario diplomatik (Game Theory) guna menemukan jalan keluar win-win solution sebelum peluru pertama ditembakkan. Ini mengangkat beban “kebuntuan diplomasi”.\n\nIde 2: Autonomous Cyber-Defense Grid (Perisai Siber Otonom)\n\nDeskripsi: Sistem pertahanan keamanan informasi yang secara otomatis menambal celah keamanan dan melakukan serangan balik (counter-measure) saat mendeteksi intrusi musuh dalam hitungan milidetik, jauh lebih cepat dari respons admin manusia.\n\nIde 3: Precision Cognitive Warfare (Perang Kognitif Presisi)\n\nDeskripsi: Penggunaan algoritma untuk memetakan psikologis lawan dan melakukan operasi informasi (atau menangkal disinformasi/deepfake) untuk memenangkan perang tanpa menghancurkan infrastruktur fisik.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html",
+    "href": "My_Opinions/index.html",
+    "title": "7  UAS-2: My Opinions",
+    "section": "",
+    "text": "7.1 Topik Opini: “Paradoks Human-in-the-Loop”\nSetelah membangun konsep “Algorithmic Fog of War”, saya menyusun opini pribadi. Sesuai materi kuliah, opini ini adalah “rebusan” dari informasi, nilai, dan perasaan saya terhadap peran AI dalam konflik.\nPendapat saya adalah:",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2: My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html#topik-opini-paradoks-human-in-the-loop",
+    "href": "My_Opinions/index.html#topik-opini-paradoks-human-in-the-loop",
+    "title": "7  UAS-2: My Opinions",
+    "section": "",
+    "text": "“Meskipun AI mutlak diperlukan untuk memproses kecepatan perang modern, keputusan fatal (lethal force) tidak boleh sepenuhnya diserahkan kepada algoritma. Manusia harus tetap menjadi pemegang kunci moral (‘Human-in-the-Loop’), bukan karena manusia lebih cepat, tapi karena manusia bisa diadili dan bertanggung jawab.”\n\n\n7.1.1 Komposisi Opini Saya (The Stew)\n\nInformasi (Fakta): Data menunjukkan bahwa pilot dan analis militer manusia mengalami kelelahan kognitif setelah jam kerja panjang, yang memicu kesalahan fatal. AI tidak pernah lelah dan memiliki presisi lebih tinggi dalam membedakan kombatan vs sipil jika datanya bersih. Namun, AI juga rentan terhadap bias data dan hacking.\nNilai (Etika): Saya memegang nilai bahwa Akuntabilitas adalah inti dari keadilan. Sebuah mesin, secerdas apa pun, tidak memiliki “jiwa” dan tidak bisa dipenjara jika melakukan kejahatan perang. Oleh karena itu, moral agency harus tetap pada manusia.\nPerasaan (Emosi): Ada rasa takut yang wajar akan skenario Terminator (mesin yang membangkang). Namun, ada juga harapan bahwa AI bisa mengurangi jumlah korban jiwa dengan membuat perang lebih terukur dan strategis, bukan brutal dan emosional.\n\n\n\n7.1.2 Menangani Perbedaan Pendapat (Dialektika)\nDalam diskursus teknologi militer, terdapat dua kubu ekstrem. Berikut adalah bagaimana saya mendamaikan perbedaan tersebut dengan posisi saya:\n\n\n\n\n\n\n\n\nKubu Ekstrem A (Techno-Optimist)\nPosisi Saya (Balanced View)\nKubu Ekstrem B (Traditionalist/Luddite)\n\n\n\n\nPendapat: Serahkan semua pada AI. Mesin lebih logis dan tidak emosional, sehingga perang lebih efisien.\nRekonsiliasi: Gunakan AI untuk decision support (saran strategi), tapi eksekusi akhir tetap di tangan komandan manusia.\nPendapat: Larang total AI dalam militer (Ban Lethal Autonomous Weapons). AI tidak bermoral.\n\n\nKelemahan: Risiko eskalasi perang instan (flash war) karena bug algoritma tanpa bisa dihentikan.\nSolusi: Sistem AI berfungsi sebagai “Co-Pilot” cerdas, bukan “Autopilot” penuh dalam urusan nyawa.\nKelemahan: Mustahil dilakukan. Negara yang menolak AI akan kalah telak dan cepat oleh negara yang menggunakannya.\n\n\n\n\n\n7.1.3 Kesiapan Mengubah Opini (Beautiful Mind)\nSaya menyadari bahwa opini saya ini bersifat dinamis. Saya siap mengubah pendapat saya jika: 1. Teknologi Baru: Ditemukan AI yang memiliki kesadaran etis (Sentient AI) yang terbukti lebih bermoral daripada manusia. 2. Kenyataan Lapangan: Jika terbukti bahwa Human-in-the-Loop justru memperlambat respons pertahanan yang menyebabkan lebih banyak korban sipil akibat serangan musuh yang fully autonomous.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2: My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Innovations/index.html",
+    "href": "My_Innovations/index.html",
+    "title": "8  UAS-3: My Innovations",
+    "section": "",
+    "text": "8.1 Nama Inovasi: “Project AIGIS” (AI-Guided Intelligence System)\nMengacu pada materi Inovasi Nilai, tujuan saya bukan sekadar menghafal teori perang, melainkan bertindak sebagai Value Creator yang menjawab kebutuhan Need Creator (masyarakat/pengambil keputusan) akan keamanan dan prediksi konflik.\nProject AIGIS adalah sebuah Produk Pengetahuan berupa Peta Pengetahuan Aplikatif (Problem-Solving Knowledge Map) yang didigitalkan. Sistem ini dirancang untuk memecahkan masalah “kebutaan informasi” dalam situasi konflik.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3: My Innovations</span>"
+    ]
+  },
+  {
+    "objectID": "My_Innovations/index.html#nama-inovasi-project-aigis-ai-guided-intelligence-system",
+    "href": "My_Innovations/index.html#nama-inovasi-project-aigis-ai-guided-intelligence-system",
+    "title": "8  UAS-3: My Innovations",
+    "section": "",
+    "text": "8.1.1 Orientasi Nilai (Value Proposition)\nDi tengah konflik, informasi seringkali simpang siur (hoax, propaganda, kabut perang). Nilai yang saya tawarkan melalui inovasi ini adalah “Clarity amid Chaos” (Kejelasan di tengah Kekacauan).\n\nMasalah (Pain Point): Pengambil keputusan sering terlambat merespons potensi konflik atau salah sasaran karena data yang bias, menyebabkan korban sipil.\nSolusi (Value): Sistem peringatan dini berbasis AI yang memetakan probabilitas konflik dengan akurasi tinggi, memungkinkan pencegahan (preventif) alih-alih penanggulangan (reaktif).\n\n\n\n8.1.2 Mekanisme Kerja (The Mechanism)\nInovasi ini bekerja dengan mengintegrasikan Primitive Knowledge (data mentah) menjadi Applied Knowledge (keputusan).\n\nInput Data (Sensing): Mengumpulkan data real-time dari citra satelit, sentimen media sosial, dan pergerakan logistik ekonomi.\nProcessing (Knowledge Map): Menggunakan algoritma Decision Tree yang saya rancang untuk memilah:\n\nApakah ini latihan militer rutin atau persiapan invasi?\nApakah ini protes sipil damai atau awal kerusuhan bersenjata?\n\nOutput (Actionable Intelligence): Memberikan rekomendasi skenario kepada Human-in-the-Loop (sesuai Opini saya di UAS-2).\n\n\n\n8.1.3 Artefak Produk Pengetahuan\nSebagai bukti nyata inovasi nilai, berikut adalah Skema Peta Pemecahan Masalah yang menjadi logika dasar AIGIS:\n\nAlgoritma Deteksi Eskalasi Konflik (Sederhana):\n\nSTART: Deteksi Anomali Data?\n\nNO: Lanjut Monitoring Rutin.\nYES: Analisis Sumber Anomali.\n\nCabang A: Pergerakan Pasukan Militer &gt; Ambang Batas Normal?\n\nYES: Pemicu Level 1 (Siaga Militer).\n\nCabang B: Lonjakan Narasi Kebencian di Media Sosial &gt; 300%?\n\nYES: Pemicu Level 2 (Potensi Konflik Sipil).\n\nCabang C (Cross-Check): Apakah Cabang A dan B terjadi bersamaan?\n\nYES: ALERT MERAH: Probabilitas Perang &gt; 85%. Rekomendasi: Aktivasi Diplomasi Darurat & Evakuasi Sipil.\nNO: ALERT KUNING: Investigasi lebih lanjut (Human Verification).\n\n\n\n\n\n\n\n8.1.4 Dampak Kebermanfaatan\nInovasi ini merepresentasikan pergeseran dari mahasiswa yang pasif menjadi pencipta solusi. Jika AIGIS diterapkan, nilainya adalah: * Bagi Sipil: Waktu evakuasi yang lebih panjang sebelum perang pecah. * Bagi Negara: Penghematan anggaran militer karena konflik dicegah sebelum membesar. * Bagi Pengetahuan: Sebuah model pembelajaran baru tentang bagaimana data sains bertemu dengan studi perdamaian.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3: My Innovations</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html",
+    "href": "My_Knowledge/index.html",
+    "title": "9  UAS-4: My Knowledge",
+    "section": "",
+    "text": "9.1 Peta Pengetahuan Primitif (Primitive Knowledge Map)\nAgar inovasi “Project AIGIS” dapat terwujud, saya tidak bisa hanya berimajinasi. Saya harus menguasai struktur pengetahuan yang mendasarinya. Berikut adalah pemetaan pengetahuan saya mengenai Penerapan Sistem Informasi dan AI dalam Konflik, disusun berdasarkan Taksonomi Bloom.\nFokus: Pengetahuan Deklaratif (The “What”) - Menguasai Fakta & Definisi.\nDalam membangun sistem ini, saya mengidentifikasi entitas-entitas dasar (Objek Pengetahuan) yang terlibat:",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4: My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#peta-pengetahuan-primitif-primitive-knowledge-map",
+    "href": "My_Knowledge/index.html#peta-pengetahuan-primitif-primitive-knowledge-map",
+    "title": "9  UAS-4: My Knowledge",
+    "section": "",
+    "text": "Entitas Alam/Teknis:\n\nArtificial Intelligence (AI): Simulasi kecerdasan manusia dalam mesin yang diprogram untuk berpikir seperti manusia dan meniru tindakannya.\nMachine Learning (ML): Cabang AI yang berfokus pada penggunaan data dan algoritma untuk meniru cara manusia belajar, secara bertahap meningkatkan akurasinya.\nCyber Warfare: Tindakan oleh negara-bangsa atau organisasi internasional untuk menyerang dan berupaya merusak komputer atau jaringan informasi negara lain.\n\nEntitas Sosial/Humaniora:\n\nKonflik: Perselisihan serius atau ketidaksepakatan, sering kali berkepanjangan.\nHukum Humaniter Internasional: Sekumpulan aturan yang, karena alasan kemanusiaan, berupaya membatasi dampak konflik bersenjata (misal: Konvensi Jenewa).",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4: My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#tingkatan-pengetahuan-taksonomi-bloom",
+    "href": "My_Knowledge/index.html#tingkatan-pengetahuan-taksonomi-bloom",
+    "title": "9  UAS-4: My Knowledge",
+    "section": "9.2 Tingkatan Pengetahuan (Taksonomi Bloom)",
+    "text": "9.2 Tingkatan Pengetahuan (Taksonomi Bloom)\nFokus: Kedalaman Pemahaman dari Mengingat hingga Mencipta.\nBerikut adalah bagaimana saya menaiki tangga pengetahuan untuk menciptakan Masterpiece ini:\n\n\n\n\n\n\n\n\n\nLevel Bloom\nKategori\nDeskripsi Kemampuan dalam Konteks Masterpiece\nContoh Konkret\n\n\n\n\nLevel 1\nRemember (Mengingat)\nMampu mendefinisikan istilah teknis dan militer.\nMengetahui definisi “Drone Otonom” dan “Serangan DDoS”.\n\n\nLevel 2\nUnderstand (Memahami)\nMampu mengklasifikasikan jenis ancaman.\nMengklasifikasikan serangan siber menjadi Espionage, Sabotage, atau Disinformation.\n\n\nLevel 3\nApply (Menerapkan)\nMampu memprediksi dampak penggunaan algoritma tertentu.\nMemprediksi bahwa penggunaan algoritma pengenalan wajah yang bias di medan perang akan meningkatkan korban sipil salah tangkap.\n\n\nLevel 4\nAnalyze (Menganalisis)\nMampu menguraikan penyebab kegagalan pertahanan.\nMenganalisis mengapa sistem pertahanan udara gagal mendeteksi swarm drone (karena pola terbang yang tidak linear).\n\n\nLevel 5\nSynthesize (Sintesis)\nMampu menyusun elemen terpisah menjadi strategi baru.\nMenggabungkan data media sosial (Open Source Intelligence) dengan data satelit militer untuk memetakan pergerakan musuh secara real-time.\n\n\nLevel 6\nEvaluate (Evaluasi)\nMampu menilai nilai etis dan efektivitas sistem.\nMenilai apakah “Project AIGIS” melanggar privasi warga sipil demi keamanan negara (Trade-off Analysis).\n\n\nLevel 7\nCreate (Mencipta)\nMampu merancang entitas sistem baru.\nMerancang arsitektur “Project AIGIS” yang mengintegrasikan semua elemen di atas menjadi satu dashboard komando yang fungsional.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4: My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#integrasi-pengetahuan-knowledge-integration",
+    "href": "My_Knowledge/index.html#integrasi-pengetahuan-knowledge-integration",
+    "title": "9  UAS-4: My Knowledge",
+    "section": "9.3 Integrasi Pengetahuan (Knowledge Integration)",
+    "text": "9.3 Integrasi Pengetahuan (Knowledge Integration)\nMasterpiece ini adalah jembatan antara dua domain: 1. Domain Rekayasa (Engineering): Bagaimana memindahkan “beban” (data intelijen yang berat) menggunakan “kekuatan” (kapasitas komputasi AI) secara efisien. 2. Domain Sosial (Social): Bagaimana solusi rekayasa tersebut memecahkan masalah kemanusiaan (mencegah perang/mengurangi korban).\nPengetahuan saya tidak berhenti pada coding (teknis), tetapi meluas pada pemahaman dampak sosial dari kode yang saya tulis. Inilah yang membedakan teknisi biasa dengan seorang arsitek sistem yang memiliki Beautiful Mind.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4: My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html",
+    "href": "My_Professional_Reviews/index.html",
+    "title": "10  UAS-5: My Professional Reviews",
+    "section": "",
+    "text": "10.1 Identifikasi Review\nBagian ini memuat evaluasi kritis terhadap Masterpiece “Penerapan Sistem dan Teknologi Informasi di Era Artificial Intelligence”. Review ini dilakukan secara kolaboratif menggunakan AI Thought Partner (Gemini) untuk memastikan objektivitas, logika, dan koherensi gagasan.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5: My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#identifikasi-review",
+    "href": "My_Professional_Reviews/index.html#identifikasi-review",
+    "title": "10  UAS-5: My Professional Reviews",
+    "section": "",
+    "text": "Topik Masterpiece: Konflik dan Perang (The Algorithmic Fog of War)\nProduk Inovasi: Project AIGIS (AI-Guided Intelligence System)\nMetode Penilaian: Review Asesmen AI berdasarkan rubrik: Kedalaman Konsep, Ketajaman Opini, Nilai Inovasi, dan Struktur Pengetahuan.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5: My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#tinjauan-umum",
+    "href": "My_Professional_Reviews/index.html#tinjauan-umum",
+    "title": "10  UAS-5: My Professional Reviews",
+    "section": "10.2 Tinjauan Umum",
+    "text": "10.2 Tinjauan Umum\nMasterpiece ini berhasil merajut narasi yang koheren mulai dari konsep abstrak hingga aplikasi teknis. Kekuatan utamanya terletak pada keseimbangan antara kecanggihan teknologi (AI/Machine Learning) dengan pertimbangan kemanusiaan (Etika Perang). Penulis tidak terjebak pada glorifikasi teknologi semata, namun menempatkan manusia sebagai pemegang kendali moral (Human-in-the-Loop).",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5: My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#tinjauan-spesifik-skor-skala-15",
+    "href": "My_Professional_Reviews/index.html#tinjauan-spesifik-skor-skala-15",
+    "title": "10  UAS-5: My Professional Reviews",
+    "section": "10.3 Tinjauan Spesifik + Skor (Skala 1–5)",
+    "text": "10.3 Tinjauan Spesifik + Skor (Skala 1–5)\n\n10.3.1 UAS-1 — My Concepts (The Algorithmic Fog of War)\nSkor per kriteria: Kejelasan Logika 5, Relevansi Isu 5, Daya Abstraksi 5, Orisinalitas Metafora 4 → Total 19/20 (95%). * Alasan: Konsep “Kabut Perang Algoritmik” sangat kuat sebagai logika mesin abstrak. Penulis berhasil mendefinisikan pergeseran paradigma perang dari fisik ke kognitif dengan sangat tajam. * Saran Perbaikan: Akan lebih sempurna jika ditambahkan ilustrasi visual (diagram blok konsep) untuk memperjelas hubungan antara input data dan output keputusan.\n\n\n10.3.2 UAS-2 — My Opinions (Paradoks Human-in-the-Loop)\nSkor per kriteria: Kekuatan Argumen 5, Penanganan Dialektika 5, Kematangan Emosi 4, Etika 5 → Total 19/20 (95%). * Alasan: Ini adalah bagian yang menunjukkan “Beautiful Mind”. Penulis mampu menyandingkan dua pandangan ekstrem (Techno-Optimist vs Luddite) dan mengambil jalan tengah yang bijak. Pengakuan akan rasa takut dan harapan menunjukkan kedewasaan berpikir. * Saran Perbaikan: Perlu referensi kasus nyata (misalnya kegagalan drone di perang terkini) untuk memperkuat argumen “mengapa manusia harus tetap memegang kendali”.\n\n\n10.3.3 UAS-3 — My Innovations (Project AIGIS)\nSkor per kriteria: Orientasi Nilai 5, Kejelasan Mekanisme 4, Kelayakan Produk 4, Dampak Sosial 5 → Total 18/20 (90%). * Alasan: Inovasi berfokus pada “Penciptaan Nilai Bersama” (keselamatan sipil & efisiensi militer). Peta algoritma yang disajikan logis dan aplikatif. * Saran Perbaikan: Bagian teknis “Processing” bisa diperdalam dengan menyebutkan library atau framework spesifik (misal: TensorFlow atau PyTorch) agar terlihat lebih siap bangun.\n\n\n10.3.4 UAS-4 — My Knowledge (Taksonomi & Peta)\nSkor per kriteria: Struktur Hierarki 5, Integrasi Antar-Disiplin 5, Keluasan Wawasan 4, Detail Teknis 4 → Total 18/20 (90%). * Alasan: Penggunaan Taksonomi Bloom sangat tepat guna. Integrasi antara Pengetahuan Alam (AI) dan Pengetahuan Sosial (Hukum Humaniter) menunjukkan wawasan interdisipliner yang menjadi syarat insinyur masa depan. * Saran Perbaikan: Pada Peta Pengetahuan Primitif, bisa ditambahkan lebih banyak definisi terkait protokol komunikasi data militer.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5: My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#rekap-skor-akhir",
+    "href": "My_Professional_Reviews/index.html#rekap-skor-akhir",
+    "title": "10  UAS-5: My Professional Reviews",
+    "section": "10.4 Rekap Skor Akhir",
+    "text": "10.4 Rekap Skor Akhir\n\n\n\n\n\n\n\n\n\nBagian UAS\nFokus Penilaian\nRata-Rata\nPredikat\n\n\n\n\nUAS-1 Concepts\nFondasi Berpikir\n4.75\nA\n\n\nUAS-2 Opinions\nKematangan Sikap\n4.75\nA\n\n\nUAS-3 Innovations\nKreativitas Solusi\n4.50\nA\n\n\nUAS-4 Knowledge\nStruktur Akademik\n4.50\nA\n\n\nTOTAL SKOR\nRata-Rata Keseluruhan\n4.62 (A)\nExcellent\n\n\n\nKesimpulan: Masterpiece ini memenuhi standar “Inovasi Nilai”. Penulis tidak hanya menyajikan ide, tetapi sebuah Blueprint sistem pertahanan cerdas yang etis. Karya ini siap untuk dipresentasikan sebagai proposal tugas akhir atau proyek konseptual.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5: My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#langkah-perbaikan-cepat-next-steps",
+    "href": "My_Professional_Reviews/index.html#langkah-perbaikan-cepat-next-steps",
+    "title": "10  UAS-5: My Professional Reviews",
+    "section": "10.5 Langkah Perbaikan Cepat (Next Steps)",
+    "text": "10.5 Langkah Perbaikan Cepat (Next Steps)\nAgar halaman web ini tampil maksimal saat dikumpulkan:\n\n\n\n\n\n\n\n\nFokus Perbaikan\nLangkah Konkret\nTarget\n\n\n\n\nVisualisasi AIGIS\nBuat diagram alur (flowchart) sederhana menggunakan Mermaid.js atau gambar statis untuk bagian UAS-3.\n1 Hari\n\n\nSitasi Referensi\nTambahkan daftar pustaka kecil di footer (misal: buku tentang AI Ethics atau Modern Warfare).\n2 Jam\n\n\nNavigasi\nPastikan Table of Contents di sebelah kanan halaman aktif dan bisa di-klik untuk loncat antar bab UAS.\nSaat Deploy",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5: My Professional Reviews</span>"
     ]
   },
   {

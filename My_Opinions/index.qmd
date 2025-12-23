@@ -1,1 +1,37 @@
-## UAS-3 My Opinions
+# UAS-2: My Opinions
+
+Setelah membangun konsep "Algorithmic Fog of War", saya menyusun opini pribadi. Sesuai materi kuliah, opini ini adalah "rebusan" dari informasi, nilai, dan perasaan saya terhadap peran AI dalam konflik.
+
+## Topik Opini: "Paradoks Human-in-the-Loop"
+
+Pendapat saya adalah:
+
+> **"Meskipun AI mutlak diperlukan untuk memproses kecepatan perang modern, keputusan fatal (lethal force) tidak boleh sepenuhnya diserahkan kepada algoritma. Manusia harus tetap menjadi pemegang kunci moral ('Human-in-the-Loop'), bukan karena manusia lebih cepat, tapi karena manusia bisa diadili dan bertanggung jawab."**
+
+### Komposisi Opini Saya (The Stew)
+
+* **Informasi (Fakta):**
+    Data menunjukkan bahwa pilot dan analis militer manusia mengalami kelelahan kognitif setelah jam kerja panjang, yang memicu kesalahan fatal. AI tidak pernah lelah dan memiliki presisi lebih tinggi dalam membedakan kombatan vs sipil *jika* datanya bersih. Namun, AI juga rentan terhadap bias data dan *hacking*.
+    
+* **Nilai (Etika):**
+    Saya memegang nilai bahwa **Akuntabilitas** adalah inti dari keadilan. Sebuah mesin, secerdas apa pun, tidak memiliki "jiwa" dan tidak bisa dipenjara jika melakukan kejahatan perang. Oleh karena itu, *moral agency* harus tetap pada manusia.
+
+* **Perasaan (Emosi):**
+    Ada rasa **takut** yang wajar akan skenario *Terminator* (mesin yang membangkang). Namun, ada juga **harapan** bahwa AI bisa mengurangi jumlah korban jiwa dengan membuat perang lebih terukur dan strategis, bukan brutal dan emosional.
+
+### Menangani Perbedaan Pendapat (Dialektika)
+
+Dalam diskursus teknologi militer, terdapat dua kubu ekstrem. Berikut adalah bagaimana saya mendamaikan perbedaan tersebut dengan posisi saya:
+
+| Kubu Ekstrem A (Techno-Optimist) | Posisi Saya (Balanced View) | Kubu Ekstrem B (Traditionalist/Luddite) |
+| :--- | :--- | :--- |
+| **Pendapat:** Serahkan semua pada AI. Mesin lebih logis dan tidak emosional, sehingga perang lebih efisien. | **Rekonsiliasi:** Gunakan AI untuk *decision support* (saran strategi), tapi eksekusi akhir tetap di tangan komandan manusia. | **Pendapat:** Larang total AI dalam militer (Ban Lethal Autonomous Weapons). AI tidak bermoral. |
+| **Kelemahan:** Risiko eskalasi perang instan (*flash war*) karena bug algoritma tanpa bisa dihentikan. | **Solusi:** Sistem AI berfungsi sebagai "Co-Pilot" cerdas, bukan "Autopilot" penuh dalam urusan nyawa. | **Kelemahan:** Mustahil dilakukan. Negara yang menolak AI akan kalah telak dan cepat oleh negara yang menggunakannya. |
+
+### Kesiapan Mengubah Opini (Beautiful Mind)
+
+Saya menyadari bahwa opini saya ini bersifat dinamis. Saya **siap mengubah pendapat** saya jika:
+1.  **Teknologi Baru:** Ditemukan AI yang memiliki kesadaran etis (*Sentient AI*) yang terbukti lebih bermoral daripada manusia.
+2.  **Kenyataan Lapangan:** Jika terbukti bahwa *Human-in-the-Loop* justru memperlambat respons pertahanan yang menyebabkan lebih banyak korban sipil akibat serangan musuh yang *fully autonomous*.
+
+---
