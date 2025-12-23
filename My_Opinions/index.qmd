@@ -1,5 +1,5 @@
 # UAS-2: My Opinions
-![~opinion](../images/opinions.jpg){width=950%}
+![~opinion](../images/opinions.png){width=950%}
 
 Setelah membangun konsep "Algorithmic Fog of War", saya menyusun opini pribadi. Sesuai materi kuliah, opini ini adalah "rebusan" dari informasi, nilai, dan perasaan saya terhadap peran AI dalam konflik.
 

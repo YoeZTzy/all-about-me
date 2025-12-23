@@ -1,5 +1,5 @@
 # UAS-3: My Innovations
-![~innovation](../images/innovations.jpg){width=950%}
+![~innovation](../images/innovations.png){width=950%}
 
 Mengacu pada materi **Inovasi Nilai**, tujuan saya bukan sekadar menghafal teori perang, melainkan bertindak sebagai *Value Creator* yang menjawab kebutuhan *Need Creator* (masyarakat/pengambil keputusan) akan keamanan dan prediksi konflik.
 

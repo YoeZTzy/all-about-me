@@ -1,5 +1,5 @@
 # UAS-4: My Knowledge
-![~knowledge](../images/knowledge.jpg){width=950%}
+![~knowledge](../images/knowledge.png){width=950%}
 
 Agar inovasi "Project AIGIS" dapat terwujud, saya tidak bisa hanya berimajinasi. Saya harus menguasai struktur pengetahuan yang mendasarinya. Berikut adalah pemetaan pengetahuan saya mengenai Penerapan Sistem Informasi dan AI dalam Konflik, disusun berdasarkan **Taksonomi Bloom**.
 
