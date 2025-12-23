@@ -1,6 +1,7 @@
 # UAS-1 My Concepts
 
 ## Pengantar Masterpiece
+![~concepts](../images/concepts.jpg){width=950%}
 
 Dalam era di mana kecerdasan buatan (AI) mendefinisikan ulang batas-batas kemanusiaan, topik **Konflik dan Perang** tidak lagi hanya berbicara tentang tentara di medan laga, melainkan tentang algoritma, data, dan kecepatan keputusan. Masterpiece ini adalah eksplorasi bagaimana Sistem Teknologi Informasi dan AI menjadi *game changer* dalam dinamika konflik modern.
 
