@@ -64,7 +64,7 @@ ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda
 **Kesimpulan:**  
 Website menunjukkan konsistensi identitas, keaslian, dan kedalaman refleksi diri. Humor ringan muncul secara natural dan memperkaya pengalaman pembaca tanpa mengurangi profesionalitas. Struktur antarhalaman saling mendukung dan menggambarkan pertumbuhan pribadi yang nyata.
 
-CSV lengkap sudah saya siapkan untuk dokumentasi dan olah lanjut: [Spreadsheets Ringkasan Peer-Assessment](https://docs.google.com/spreadsheets/d/1EKqmgtoXTK01jdtNNevVuGsAhJ3gEGFn/edit?gid=152507777#gid=152507777).
+CSV lengkap sudah saya siapkan untuk dokumentasi dan olah lanjut: [Spreadsheets Ringkasan Peer-Assessment UTS](https://docs.google.com/spreadsheets/d/1EKqmgtoXTK01jdtNNevVuGsAhJ3gEGFn/edit?gid=152507777#gid=152507777).
 
 ## Langkah Perbaikan Cepat (prioritas 1 minggu)
 

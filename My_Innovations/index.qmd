@@ -25,8 +25,9 @@ Inovasi ini bekerja dengan mengintegrasikan *Primitive Knowledge* (data mentah) 
 ### Artefak Produk Pengetahuan
 Sebagai bukti nyata inovasi nilai, berikut adalah **Skema Peta Pemecahan Masalah** yang menjadi logika dasar AIGIS:
 
-> **Algoritma Deteksi Eskalasi Konflik (Sederhana):**
-> 
+::: {.callout-tip appearance="minimal"}
+**Algoritma Deteksi Eskalasi Konflik (Sederhana):**
+ 
 > * **START:** Deteksi Anomali Data?
 >     * **NO:** Lanjut Monitoring Rutin.
 >     * **YES:** Analisis Sumber Anomali.
@@ -37,11 +38,15 @@ Sebagai bukti nyata inovasi nilai, berikut adalah **Skema Peta Pemecahan Masalah
 >         * *Cabang C (Cross-Check):* Apakah Cabang A dan B terjadi bersamaan?
 >             * **YES:** **ALERT MERAH:** Probabilitas Perang > 85%. Rekomendasi: Aktivasi Diplomasi Darurat & Evakuasi Sipil.
 >             * **NO:** **ALERT KUNING:** Investigasi lebih lanjut (Human Verification).
+:::
 
 ### Dampak Kebermanfaatan
 Inovasi ini merepresentasikan pergeseran dari mahasiswa yang pasif menjadi pencipta solusi. Jika AIGIS diterapkan, nilainya adalah:
+
 * **Bagi Sipil:** Waktu evakuasi yang lebih panjang sebelum perang pecah.
+
 * **Bagi Negara:** Penghematan anggaran militer karena konflik dicegah sebelum membesar.
+
 * **Bagi Pengetahuan:** Sebuah model pembelajaran baru tentang bagaimana data sains bertemu dengan studi perdamaian.
 
 ---

@@ -1,12 +1,17 @@
 # UAS-5: My Professional Reviews
 
-Bagian ini memuat evaluasi kritis terhadap Masterpiece "Penerapan Sistem dan Teknologi Informasi di Era Artificial Intelligence". Review ini dilakukan secara kolaboratif menggunakan *AI Thought Partner* (Gemini) untuk memastikan objektivitas, logika, dan koherensi gagasan.
+Bagian ini memuat evaluasi kritis terhadap Masterpiece "Penerapan Sistem dan Teknologi Informasi di Era Artificial Intelligence". Review ini dilakukan secara kolaboratif menggunakan *AI Thought Partner* (Gemini) untuk memastikan kualitas konsep, opini, penyajian inovasi, dan dampak pengetahuan.
+
+Hasil Peer Assesment UAS lengkap: [Spreadsheets Ringkasan Peer-Assessment UAS](https://docs.google.com/spreadsheets/d/1bbKrLHXddkEgtiDyqPPO90x9yJuvLukR/edit?gid=152507777#gid=152507777).
 
 ## Identifikasi Review
 
+* **Nama & NIM Penulis:** Abdullah Ahmad Yusuf (18224073)
+
 * **Topik Masterpiece:** Konflik dan Perang (The Algorithmic Fog of War)
 * **Produk Inovasi:** Project AIGIS (AI-Guided Intelligence System)
-* **Metode Penilaian:** Review Asesmen AI berdasarkan rubrik: Kedalaman Konsep, Ketajaman Opini, Nilai Inovasi, dan Struktur Pengetahuan.
+* **Metode Penilaian:** SELF-ASSESSMENT (Bersama Gemini)
+Review Asesmen AI berdasarkan rubrik penilaian spesifik yang berfokus pada kualitas konsep, opini, penyajian inovasi, dan dampak pengetahuan.
 
 ## Tinjauan Umum
 
@@ -17,39 +22,71 @@ Masterpiece ini berhasil merajut narasi yang koheren mulai dari konsep abstrak h
 ## Tinjauan Spesifik + Skor (Skala 1–5)
 
 ### **UAS-1 — My Concepts (The Algorithmic Fog of War)**
-**Skor per kriteria:** Kejelasan Logika **5**, Relevansi Isu **5**, Daya Abstraksi **5**, Orisinalitas Metafora **4** → **Total 19/20 (95%)**.
-* **Alasan:** Konsep "Kabut Perang Algoritmik" sangat kuat sebagai *logika mesin abstrak*. Penulis berhasil mendefinisikan pergeseran paradigma perang dari fisik ke kognitif dengan sangat tajam.
-* **Saran Perbaikan:** Akan lebih sempurna jika ditambahkan ilustrasi visual (diagram blok konsep) untuk memperjelas hubungan antara input data dan output keputusan.
+*Fokus: The Algorithmic Fog of War*
+
+| Kriteria | Skor (1-5) | Catatan Evaluasi |
+| :--- | :---: | :--- |
+| **Clarity** (Kejelasan) | **5** | Definisi "Kabut" vs "Algoritma" sangat jernih. Pembaca langsung memahami metafora utama tanpa kebingungan. |
+| **Logic** (Logika) | **5** | Alur logika mesin abstrak konsisten: Masalah (ketidakpastian) -> Kekuatan (AI) -> Solusi (Prediksi). Tidak ada lompatan logika. |
+| **Validity** (Validitas) | **4** | Konsep didukung oleh fenomena perang modern yang nyata. Validitas dapat ditingkatkan lagi dengan data statistik spesifik. |
+| **Usefulness** (Kegunaan) | **5** | Sangat berguna sebagai kerangka berpikir strategis bagi pengambil keputusan militer maupun sipil. |
+| **Rata-rata UAS-1** | **4.75** | **Sangat Baik** |
+
+---
 
 ### **UAS-2 — My Opinions (Paradoks Human-in-the-Loop)**
-**Skor per kriteria:** Kekuatan Argumen **5**, Penanganan Dialektika **5**, Kematangan Emosi **4**, Etika **5** → **Total 19/20 (95%)**.
-* **Alasan:** Ini adalah bagian yang menunjukkan "Beautiful Mind". Penulis mampu menyandingkan dua pandangan ekstrem (Techno-Optimist vs Luddite) dan mengambil jalan tengah yang bijak. Pengakuan akan rasa takut dan harapan menunjukkan kedewasaan berpikir.
-* **Saran Perbaikan:** Perlu referensi kasus nyata (misalnya kegagalan drone di perang terkini) untuk memperkuat argumen "mengapa manusia harus tetap memegang kendali".
+*Fokus: Paradoks Human-in-the-Loop*
+
+| Kriteria | Skor (1-5) | Catatan Evaluasi |
+| :--- | :---: | :--- |
+| **Compelling** (Menarik) | **5** | Isu etika "siapa yang bertanggung jawab jika mesin membunuh" sangat memikat dan relevan dengan debat global saat ini. |
+| **Informatif** | **4** | Memberikan informasi yang seimbang antara kubu pro-AI dan anti-AI, memperkaya wawasan pembaca. |
+| **Persuasif** | **5** | Argumen moral tentang akuntabilitas hukum manusia sangat kuat dan meyakinkan. |
+| **Engaging** (Menggugah) | **4** | Gaya bahasa menyentuh sisi emosional (ketakutan akan *dystopia* vs harapan perdamaian), menjaga keterikatan pembaca. |
+| **Rata-rata UAS-2** | **4.50** | **Sangat Baik** |
+
+---
 
 ### **UAS-3 — My Innovations (Project AIGIS)**
-**Skor per kriteria:** Orientasi Nilai **5**, Kejelasan Mekanisme **4**, Kelayakan Produk **4**, Dampak Sosial **5** → **Total 18/20 (90%)**.
-* **Alasan:** Inovasi berfokus pada "Penciptaan Nilai Bersama" (keselamatan sipil & efisiensi militer). Peta algoritma yang disajikan logis dan aplikatif.
-* **Saran Perbaikan:** Bagian teknis "Processing" bisa diperdalam dengan menyebutkan *library* atau *framework* spesifik (misal: TensorFlow atau PyTorch) agar terlihat lebih siap bangun.
+*Fokus: Presentasi Project AIGIS*
+
+| Kriteria | Skor (1-5) | Catatan Evaluasi |
+| :--- | :---: | :--- |
+| **Guna** (Kegunaan) | **5** | Nilai guna sangat tinggi: menyelamatkan nyawa sipil melalui peringatan dini. *Value Proposition* jelas. |
+| **Kebaruan** | **4** | Penerapan algoritma pada *conflict prevention* adalah inovasi kreatif, meskipun teknologinya sendiri (AI) sudah umum. |
+| **Desain** | **4** | Struktur logika sistem (Input-Process-Output) tertata rapi. Akan sempurna (skor 5) jika disertai *mockup* antarmuka visual. |
+| **Dampak** | **5** | Potensi dampak sosial dan kemanusiaan sangat besar jika sistem ini benar-benar diimplementasikan. |
+| **Rata-rata UAS-3** | **4.50** | **Sangat Baik** |
+
+---
 
 ### **UAS-4 — My Knowledge (Taksonomi & Peta)**
-**Skor per kriteria:** Struktur Hierarki **5**, Integrasi Antar-Disiplin **5**, Keluasan Wawasan **4**, Detail Teknis **4** → **Total 18/20 (90%)**.
-* **Alasan:** Penggunaan Taksonomi Bloom sangat tepat guna. Integrasi antara Pengetahuan Alam (AI) dan Pengetahuan Sosial (Hukum Humaniter) menunjukkan wawasan interdisipliner yang menjadi syarat insinyur masa depan.
-* **Saran Perbaikan:** Pada *Peta Pengetahuan Primitif*, bisa ditambahkan lebih banyak definisi terkait protokol komunikasi data militer.
+*Fokus: Struktur Pengetahuan & Peta L.U.C.I.D.*
+
+| Kriteria | Skor (1-5) | Catatan Evaluasi |
+| :--- | :---: | :--- |
+| **Kurasi** | **5** | Pemilihan topik (Teknis + Sosial/Hukum) sangat tepat sasaran. Kurasi entitas pengetahuan menunjukkan kedalaman riset. |
+| **Kejelasan** | **5** | Penjelasan tingkatan Taksonomi Bloom dari *Remember* hingga *Create* sangat mudah dipahami. |
+| **Akurasi** | **4** | Definisi istilah teknis (AI, ML, Cyber Warfare) akurat sesuai standar industri. |
+| **Daya Guna** | **4** | Peta pengetahuan ini sangat berdaya guna sebagai panduan kurikulum belajar mandiri. |
+| **Rata-rata UAS-4** | **4.50** | **Sangat Baik** |
 
 ---
 
 ## Rekap Skor Akhir
 
-| Bagian UAS | Fokus Penilaian | Rata-Rata | Predikat |
+| Bagian | Topik | Skor Rata-rata | Predikat |
 | :--- | :--- | :---: | :---: |
-| **UAS-1 Concepts** | Fondasi Berpikir | 4.75 | A |
-| **UAS-2 Opinions** | Kematangan Sikap | 4.75 | A |
-| **UAS-3 Innovations** | Kreativitas Solusi | 4.50 | A |
-| **UAS-4 Knowledge** | Struktur Akademik | 4.50 | A |
-| **TOTAL SKOR** | **Rata-Rata Keseluruhan** | **4.62 (A)** | **Excellent** |
+| **UAS-1** | Concept | 4.75 | A |
+| **UAS-2** | Opinion | 4.50 | A |
+| **UAS-3** | Innovation | 4.50 | A |
+| **UAS-4** | Knowledge | 4.50 | A |
+| **TOTAL** | **Masterpiece Score** | **4.56** | **Excellent (A)** |
 
 **Kesimpulan:**
-Masterpiece ini memenuhi standar "Inovasi Nilai". Penulis tidak hanya menyajikan ide, tetapi sebuah *Blueprint* sistem pertahanan cerdas yang etis. Karya ini siap untuk dipresentasikan sebagai proposal tugas akhir atau proyek konseptual.
+Masterpiece **L.U.C.I.D.** menunjukkan kematangan berpikir yang melampaui standar teknis biasa. Penulis berhasil menggabungkan logika sistem (Concepts & Knowledge) dengan narasi humanis (Opinions) dan solusi konkret (Innovations). Karya ini layak menjadi model penerapan Sistem Informasi di era AI.
+
+CSV lengkap sudah saya siapkan untuk dokumentasi dan olah lanjut (sama seperti link di atas halaman ini): [Spreadsheets Ringkasan Peer-Assessment UAS](https://docs.google.com/spreadsheets/d/1bbKrLHXddkEgtiDyqPPO90x9yJuvLukR/edit?gid=152507777#gid=152507777).
 
 ---
 

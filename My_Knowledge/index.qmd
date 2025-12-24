@@ -35,7 +35,9 @@ Berikut adalah bagaimana saya menaiki tangga pengetahuan untuk menciptakan Maste
 ## Integrasi Pengetahuan (Knowledge Integration)
 
 Masterpiece ini adalah jembatan antara dua domain:
+
 1.  **Domain Rekayasa (Engineering):** Bagaimana memindahkan "beban" (data intelijen yang berat) menggunakan "kekuatan" (kapasitas komputasi AI) secara efisien.
+
 2.  **Domain Sosial (Social):** Bagaimana solusi rekayasa tersebut memecahkan masalah kemanusiaan (mencegah perang/mengurangi korban).
 
 Pengetahuan saya tidak berhenti pada *coding* (teknis), tetapi meluas pada pemahaman dampak sosial dari kode yang saya tulis. Inilah yang membedakan teknisi biasa dengan seorang arsitek sistem yang memiliki *Beautiful Mind*.

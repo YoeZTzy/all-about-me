@@ -26,8 +26,11 @@ Untuk membangun *Beautiful Mind* dan *Masterpiece* ini, saya memulai dengan meru
 Konsep ini mendefinisikan pergeseran paradigma perang dari **gesekan fisik (physical attrition)** menjadi **dominasi kognitif dan kecepatan otonom**.
 
 Jika konsep adalah mesin pengangkat beban, maka:
+
 * **Beban Masalah [B]**: Keterbatasan manusia dalam memproses jutaan variabel medan perang secara *real-time*, risiko korban jiwa manusia (human cost), dan "Fog of War" (ketidakpastian informasi) yang menyebabkan salah ambil keputusan strategis.
+
 * **Kekuatan yang Dihimpun [K]**: Kapasitas komputasi AI (Deep Learning), Big Data Analytics, dan *Autonomous Decision Making*.
+
 * **Mekanisme Kerja**: Menggantikan intuisi lambat manusia dengan presisi prediktif mesin untuk mencapai keunggulan strategis sebelum konflik fisik terjadi.
 
 ### Esensi Konsep
